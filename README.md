@@ -1,5 +1,7 @@
 # Multi-Class Text Classification: A Comparative Analysis
 
+📌 **Project developed as part of CSE440: Natural Language Processing at BRAC University, Spring 2026.**
+
 This repository contains the source code and report for a comprehensive study on multi-class text classification using news headlines. The project investigates the impact of various text preprocessing strategies, word embedding techniques, and machine learning architectures on classification performance.
 
 ## Authors
